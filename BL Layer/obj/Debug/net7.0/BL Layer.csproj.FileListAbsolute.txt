@@ -1,0 +1,12 @@
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\obj\Debug\net7.0\BL Layer.csproj.AssemblyReference.cache
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\obj\Debug\net7.0\BL Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\obj\Debug\net7.0\BL Layer.AssemblyInfoInputs.cache
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\obj\Debug\net7.0\BL Layer.AssemblyInfo.cs
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\obj\Debug\net7.0\BL Layer.csproj.CoreCompileInputs.cache
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\bin\Debug\net7.0\BL Layer.deps.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\bin\Debug\net7.0\BL Layer.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\bin\Debug\net7.0\BL Layer.pdb
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\obj\Debug\net7.0\BL Layer.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\obj\Debug\net7.0\refint\BL Layer.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\obj\Debug\net7.0\BL Layer.pdb
+C:\Users\antikill\Desktop\TgBot-Algorithm\BL Layer\obj\Debug\net7.0\ref\BL Layer.dll
