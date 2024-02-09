@@ -1,0 +1,41 @@
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\appsettings.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\API Layer.exe
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\API Layer.deps.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\API Layer.runtimeconfig.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\API Layer.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\API Layer.pdb
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\DataAccess.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.csproj.AssemblyReference.cache
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.AssemblyInfoInputs.cache
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.AssemblyInfo.cs
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.csproj.CoreCompileInputs.cache
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\staticwebassets\msbuild.API Layer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\staticwebassets\msbuild.build.API Layer.props
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Layer.props
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Layer.props
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\scopedcss\bundle\API Layer.styles.css
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.csproj.CopyComplete
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\refint\API Layer.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.pdb
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\API Layer.genruntimeconfig.cache
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\obj\Debug\net8.0\ref\API Layer.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\Algorithms\lib.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\Algorithms\list.json
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\BL Layer.dll
+C:\Users\antikill\Desktop\TgBot-Algorithm\API Layer\bin\Debug\net8.0\BL Layer.pdb

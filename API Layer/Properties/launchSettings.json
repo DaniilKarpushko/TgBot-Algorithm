@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "AlgorithmBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TelegramBotToken": "6653156035:AAFjcP0spXxYWyFAhwLY3w7cdD-1Rey-bvA",
+        "AlgorithmDataFile" : "Algorithms/lib.json",
+        "AlgorithmListFile" : "Algorithms/list.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "insertion sort",
+    "TimeComplexity": "O(N^2)",
+    "MemoryComplexity": "O(1)",
+    "Code": "void insertionSort(int arr[], int n)\n{\n    int key, j;\n    for (int i = 1; i &lt; n; i++) {\n        key = arr[i];\n        j = i - 1;\n \n        while (j >= 0 && arr[j] > key) {\n            arr[j + 1] = arr[j];\n            j = j - 1;\n        }\n        arr[j + 1] = key;\n    }\n}",
+    "Links": [
+      "https://www.geeksforgeeks.org/insertion-sort/"
+    ]
+  }
+]
+    
