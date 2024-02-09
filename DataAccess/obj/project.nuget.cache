@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4x6swrLytcCnJqgYn9sF3a0tC0FxjPgoJh3C7UHQZ0ZTXKw8t0x3eQ57/6Ei+9cIgUUHZOdxfAgchl3ceVm7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antikill\\Desktop\\TgBot-Algorithm\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antikill\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\antikill\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\antikill\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\antikill\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\antikill\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\antikill\\.nuget\\packages\\telegram.bot\\20.0.0-alpha.1\\telegram.bot.20.0.0-alpha.1.nupkg.sha512"
+  ],
+  "logs": []
+}
